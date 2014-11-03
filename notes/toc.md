@@ -1,5 +1,6 @@
 # Table of Contents
 * Introduction
+* What is hacking and why do it?
 * History
 * What we know about learning
 	* How we learn
